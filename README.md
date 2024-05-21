@@ -2,7 +2,7 @@
 Banner interactivo con marcas e imágenes hecho con jQuery.<br>
 
 <h2>Interesting Links:</h2>
-<a href="https://alejandroochandodev.github.io/web-personal/">Live Site</a><br>
+<a href="https://alejandroochandodev.github.io/interactive-banner">Live Site</a><br>
 
 <h2>Preview:</h2>
 
